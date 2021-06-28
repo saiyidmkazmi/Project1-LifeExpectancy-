@@ -29,21 +29,24 @@ https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select
 As a group of data analysts, we are finding the key factors that affect overall life expectancy around the globe in order to use the trends we see to increase life expectancy. We’ll accomplish this by a series of visualizations and data analysis providing insight to our questions.
 
 **Delegation of Tasks**
+
 Samual C:
 Data Cleaning, General Coding, & Major Findings
-* [ ] Use Pandas to clean and format your data set(s)
-* [ ] Create a Jupyter Notebook describing the **data exploration and cleanup** process
+> Use Pandas to clean and format your data set(s)
+> Create a Jupyter Notebook describing the data exploration and cleanup process
+
 Debra P:
 Visualization and Major Findings
-* [ ] Create a Jupyter Notebook illustrating the **final data analysis**
-* [ ] Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
-* [ ] Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentations
+> Create a Jupyter Notebook illustrating the final data analysis
+> Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
+> Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentations
+
 Saiyid K.
 Visualization, Major Findings, & Presentation
-* [ ] Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
-* [ ] Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
-* [ ] Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
+> Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
+> Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
+> Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
 
 
 *Optional*
-* [ ] Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
+Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
