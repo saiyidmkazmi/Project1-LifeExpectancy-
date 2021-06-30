@@ -18,12 +18,12 @@ In our project, we used extensive research on life expectancy across the globe o
 7. How does the number of Pharmacist effect the overall life expectancy?
 
 **Datasets to be Used:**
-https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=airPollutionDeathRate.csv
-https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=basicDrinkingWaterServices.csv
-https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=basicHandWashing.csv
-https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=atLeastBasicSanitizationServices.csv
-https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=medicalDoctors.csv
-https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=pharmacists.csv
+- https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=airPollutionDeathRate.csv
+- https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=basicDrinkingWaterServices.csv
+- https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=basicHandWashing.csv
+- https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=atLeastBasicSanitizationServices.csv
+- https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=medicalDoctors.csv
+- https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=pharmacists.csv
 
 **Rough Breakdown of Task:**
 As a group of data analysts, we are finding the key factors that affect overall life expectancy around the globe in order to use the trends we see to increase life expectancy. We’ll accomplish this by a series of visualizations and data analysis providing insight to our questions.
