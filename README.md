@@ -18,7 +18,7 @@ In our project, we used extensive research on life expectancy across the globe o
 7. How does the number of Pharmacist effect the overall life expectancy?
 
 **Datasets to be Used:**
-- https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=airPollutionDeathRate.csv
+- https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=basicDrinkingWaterServices.csv
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=basicHandWashing.csv
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=atLeastBasicSanitizationServices.csv
